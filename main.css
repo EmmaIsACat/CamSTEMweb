@@ -26,6 +26,12 @@ p {
   padding-left: 30px;
 }
 
+img {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
 
 div {
   padding-right: 30px;
