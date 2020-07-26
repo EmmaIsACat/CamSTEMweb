@@ -59,7 +59,6 @@ header {
 /* Add a background color to the top navigation */
 .topnav {
   background-color: #4698CA ;
-  background-size: cover;
   overflow: hidden;
 }
 
